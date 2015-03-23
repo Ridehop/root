@@ -4,7 +4,7 @@
     "server"
   ],
   "disableAnalytics": false,
-  "database": "disk",
+  "database": "mongo",
   "docker": false,
   "verbose": false,
   "skipNpm": false,
